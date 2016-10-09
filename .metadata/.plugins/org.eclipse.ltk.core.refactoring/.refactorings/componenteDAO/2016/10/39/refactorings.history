@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;componenteDAO&apos; to &apos;com.dev.ds&apos;&#x0D;&#x0A;- Original project: &apos;componenteDAO&apos;&#x0D;&#x0A;- Original element: &apos;componenteDAO/src/componenteDAO&apos;&#x0D;&#x0A;- Renamed element: &apos;componenteDAO/src/com.dev.ds&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;componenteDAO&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;componenteDAO" name="com.dev.ds" qualified="false" references="true" stamp="1475432158999" textual="false" version="1.0"/>
+</session>

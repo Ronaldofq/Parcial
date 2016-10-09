@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="com.rep.ejercicio1.GestorDepartamento"/>
+<fullyQualifiedTypeName name="com.rep.ejercicio1.Departamento"/>
+<fullyQualifiedTypeName name="com.rep.ejercicio1.Empleado"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.rep.ejercicio2.Empleado"/>
+<fullyQualifiedTypeName name="com.mysql.jdbc.Connection"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.lang.Class"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="com.dev.dao.ICruddao"/>
+<fullyQualifiedTypeName name="com.dev.dao.IRowmapper"/>
+<fullyQualifiedTypeName name="com.dev.dto.Empleado"/>
+<fullyQualifiedTypeName name="com.dev.dto.Administrativo"/>
+<fullyQualifiedTypeName name="com.dev.dto.Area"/>
+<fullyQualifiedTypeName name="com.dev.dto.Asignacion"/>
+<fullyQualifiedTypeName name="com.dev.dto.HelpDesk"/>
+<fullyQualifiedTypeName name="com.dev.dto.Requerimiento"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.dev.dto.Soluciones"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="com.dev.dao.IAdministrativodao"/>
+<fullyQualifiedTypeName name="com.dev.dao.IAreadao"/>
+<fullyQualifiedTypeName name="com.dev.dao.IAsignaciondao"/>
+<fullyQualifiedTypeName name="com.dev.dao.IEmpleadodao"/>
+<fullyQualifiedTypeName name="com.dev.dao.IHelpDeskdao"/>
+<fullyQualifiedTypeName name="com.dev.dao.IRequerimientodao"/>
+<fullyQualifiedTypeName name="com.dev.dao.ISolucionesdao"/>
+<fullyQualifiedTypeName name="com.dev.factory.Factory"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,7 @@
+package com.dev.dao;
+
+import com.dev.dto.Soluciones;
+
+public interface ISolucionesdao extends ICruddao<Soluciones>,IRowmapper<Soluciones>{
+	
+}
